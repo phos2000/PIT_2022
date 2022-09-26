@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Percentages for discrete varibles}{2}{section.1}%
+\contentsline {section}{\numberline {2}Distributions and Graphs for continuous variables}{5}{section.2}%
+\contentsline {section}{\numberline {3}Number of people observed and projected}{8}{section.3}%
+\contentsline {section}{\numberline {4}Crosstables for the observed data}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Stayed at any shelter by with someone}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Stayed at any shelter by with someone or with a pet}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Stayed at any shelter by meets chronic definition}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Stayed at any shelter by race (white non-hispanic vs.\nobreakspace {}all other)}{14}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Stayed at any shelter by homeless due to violence}{15}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Homeless due to violence by gender (use all the categories)}{16}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Homeless due to violence by gender dichotomy (male vs.\nobreakspace {}all others)}{17}{subsection.4.7}%
