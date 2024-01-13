@@ -183,8 +183,11 @@ pit_distribution_plots = function(month_frequency, samplingRate=1) {
     scale_x_continuous(breaks = seq(0, 36, by = 12)) +
     theme_minimal()
   grid.arrange(plot1, plot2, ncol=2)
+  
   ggsave("observed_plot.jpeg", plot = plot1)
   ggsave("projected_plot.jpeg", plot = plot2)
+  g <- arrangeGrob(plot1, plot2, ncol=2) #generates g
+  ggsave(file="figure1.jpeg", plot = g, dpi = 1200)
 }
 
 # Third function: create table with adjusted estimates
